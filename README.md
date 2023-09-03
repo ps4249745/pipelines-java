@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ps4249745/public-project/_apis/build/status%2Fps4249745.pipelines-java?branchName=main)](https://dev.azure.com/ps4249745/public-project/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
