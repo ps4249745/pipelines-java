@@ -15,7 +15,7 @@ strategy:
      windows:
       imageName: "windows-latest"
 
-     task: Bash@3
+  -  task:
      inputs:
        targetType: 'inline'
        script: |
