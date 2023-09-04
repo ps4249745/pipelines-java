@@ -24,4 +24,4 @@ steps:
   inputs:
     codeCoverageTool: "JaCoCo"
     summaryFileLocation:
-"$(System.DefaultWorkingDirectory)/**/site/jacoco/jacoco.xml"
+
